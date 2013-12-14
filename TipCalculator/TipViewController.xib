@@ -75,12 +75,13 @@
                         <segment title="15%"/>
                         <segment title="20%"/>
                     </segments>
+                    <color key="tintColor" red="1" green="0.99879872569999995" blue="0.9734060269" alpha="1" colorSpace="calibratedRGB"/>
                     <connections>
                         <action selector="onTap:" destination="-1" eventType="valueChanged" id="MSy-Iy-gO8"/>
                     </connections>
                 </segmentedControl>
             </subviews>
-            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <color key="backgroundColor" red="0.1844913047" green="0.18257501379999999" blue="1" alpha="1" colorSpace="calibratedRGB"/>
             <color key="tintColor" red="0.1148229031633724" green="0.32139772054948734" blue="1" alpha="1" colorSpace="calibratedRGB"/>
             <gestureRecognizers/>
             <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
